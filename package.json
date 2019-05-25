@@ -5,6 +5,11 @@
     "nodemon": "^1.19.0"
   },
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "10.10.0",
+    "yarn": "1.12.3"
   }
 }
