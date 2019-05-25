@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.0",
+    "nodemon": "^1.19.0"
+  },
+  "scripts": {
+    "dev": "nodemon app.js"
+  }
+}
